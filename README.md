@@ -15,6 +15,7 @@ I am learning DSA step by step for interview preparation.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@ I am learning DSA step by step for interview preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 ## Stack
@@ -58,4 +60,8 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
