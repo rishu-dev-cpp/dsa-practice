@@ -27,6 +27,7 @@ I am learning DSA step by step for interview preparation.
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@ I am learning DSA step by step for interview preparation.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
+| [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,6 +60,7 @@ I am learning DSA step by step for interview preparation.
 | [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +85,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
