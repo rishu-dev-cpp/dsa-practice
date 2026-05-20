@@ -24,6 +24,7 @@ I am learning DSA step by step for interview preparation.
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
@@ -86,12 +87,14 @@ I am learning DSA step by step for interview preparation.
 ## Sorting
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 ## Matrix
@@ -100,10 +103,15 @@ I am learning DSA step by step for interview preparation.
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
