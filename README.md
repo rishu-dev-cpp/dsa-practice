@@ -19,6 +19,7 @@ I am learning DSA step by step for interview preparation.
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -41,6 +42,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
@@ -95,6 +97,7 @@ I am learning DSA step by step for interview preparation.
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
