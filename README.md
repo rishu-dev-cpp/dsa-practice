@@ -28,6 +28,7 @@ I am learning DSA step by step for interview preparation.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
@@ -95,6 +96,7 @@ I am learning DSA step by step for interview preparation.
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 ## Matrix
