@@ -24,6 +24,7 @@ I am learning DSA step by step for interview preparation.
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -137,6 +138,7 @@ I am learning DSA step by step for interview preparation.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Interactive
 |  |
@@ -147,6 +149,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
@@ -162,4 +165,12 @@ I am learning DSA step by step for interview preparation.
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
