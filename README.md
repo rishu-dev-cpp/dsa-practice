@@ -40,6 +40,7 @@ I am learning DSA step by step for interview preparation.
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1185-find-in-mountain-array) |
+| [1222-remove-covered-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1222-remove-covered-intervals) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -112,6 +113,7 @@ I am learning DSA step by step for interview preparation.
 | [0056-merge-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1222-remove-covered-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1222-remove-covered-intervals) |
 ## Binary Search
 |  |
 | ------- |
