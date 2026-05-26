@@ -27,6 +27,7 @@ I am learning DSA step by step for interview preparation.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -69,6 +70,7 @@ I am learning DSA step by step for interview preparation.
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -124,6 +126,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -136,6 +139,7 @@ I am learning DSA step by step for interview preparation.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -155,6 +159,7 @@ I am learning DSA step by step for interview preparation.
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Heap (Priority Queue)
@@ -222,4 +227,8 @@ I am learning DSA step by step for interview preparation.
 | [0025-reverse-nodes-in-k-group](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
