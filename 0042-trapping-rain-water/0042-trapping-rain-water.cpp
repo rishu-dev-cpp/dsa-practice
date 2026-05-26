@@ -1,7 +1,7 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n = height.size();
+       /* int n = height.size();
         
         vector<int> left(n), right(n);
 
@@ -17,6 +17,19 @@ public:
         for(int i=0;i<n;i++){
             total += min(left[i], right[i]) - height[i];
         }
-        return total;
+        return total; */
+        int n = height.size();
+        int left = 0, right = n - 1, leftMax = 0, rightMax = 0, total = 0;
+        while(left<right){
+            if(height[left]<=height[right]){
+                leftMax = max(leftMax, height[left]);
+                total += leftMax-height[left];
+                left++;
+            }else {
+                rightMax = max(rightMax, height[right]);
+                total += rightMax-height[right];
+                right--;
+            }
+        }return total;
     }
 };
