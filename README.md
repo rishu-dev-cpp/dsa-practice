@@ -30,6 +30,7 @@ I am learning DSA step by step for interview preparation.
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
+| [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
@@ -181,6 +182,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0523-continuous-subarray-sum) |
@@ -277,4 +279,12 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
