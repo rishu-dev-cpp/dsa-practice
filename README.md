@@ -46,6 +46,7 @@ I am learning DSA step by step for interview preparation.
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0940-fruit-into-baskets) |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
@@ -62,6 +63,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +151,7 @@ I am learning DSA step by step for interview preparation.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [1222-remove-covered-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1222-remove-covered-intervals) |
 ## Binary Search
 |  |
@@ -194,6 +197,7 @@ I am learning DSA step by step for interview preparation.
 | [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 ## Interactive
 |  |
 | ------- |
@@ -242,6 +246,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -289,4 +294,16 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
