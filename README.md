@@ -59,6 +59,7 @@ I am learning DSA step by step for interview preparation.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2047-find-a-peak-element-ii) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
+| [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,6 +142,7 @@ I am learning DSA step by step for interview preparation.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
 | ------- |
