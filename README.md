@@ -22,6 +22,7 @@ I am learning DSA step by step for interview preparation.
 | [0039-combination-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0056-merge-intervals) |
@@ -148,6 +149,7 @@ I am learning DSA step by step for interview preparation.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
@@ -292,6 +294,7 @@ I am learning DSA step by step for interview preparation.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
 ## Simulation
