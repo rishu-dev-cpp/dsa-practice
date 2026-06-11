@@ -29,6 +29,7 @@ I am learning DSA step by step for interview preparation.
 | [0078-subsets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
@@ -276,6 +277,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -289,6 +291,7 @@ I am learning DSA step by step for interview preparation.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
 | ------- |
