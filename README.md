@@ -47,6 +47,7 @@ I am learning DSA step by step for interview preparation.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0523-continuous-subarray-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
+| [0636-exclusive-time-of-functions](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
@@ -136,6 +137,7 @@ I am learning DSA step by step for interview preparation.
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
 ## Monotonic Stack
 |  |
 | ------- |
