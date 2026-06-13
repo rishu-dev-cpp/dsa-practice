@@ -30,6 +30,7 @@ I am learning DSA step by step for interview preparation.
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
@@ -185,6 +186,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
@@ -236,6 +238,7 @@ I am learning DSA step by step for interview preparation.
 | [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -301,6 +304,7 @@ I am learning DSA step by step for interview preparation.
 | [0046-permutations](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
 ## Simulation
 |  |
@@ -326,4 +330,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
