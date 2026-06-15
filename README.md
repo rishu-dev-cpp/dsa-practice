@@ -129,6 +129,7 @@ I am learning DSA step by step for interview preparation.
 | [0142-linked-list-cycle-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
@@ -279,6 +280,7 @@ I am learning DSA step by step for interview preparation.
 | [0206-reverse-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
