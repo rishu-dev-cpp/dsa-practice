@@ -135,6 +135,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0394-decode-string) |
@@ -242,6 +243,7 @@ I am learning DSA step by step for interview preparation.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
