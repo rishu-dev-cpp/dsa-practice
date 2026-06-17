@@ -117,6 +117,7 @@ I am learning DSA step by step for interview preparation.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 ## Two Pointers
 |  |
@@ -345,4 +346,13 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
