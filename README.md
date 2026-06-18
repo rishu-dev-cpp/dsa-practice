@@ -318,6 +318,7 @@ I am learning DSA step by step for interview preparation.
 | [0078-subsets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -347,12 +348,15 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
 ## Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
