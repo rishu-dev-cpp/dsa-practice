@@ -15,6 +15,7 @@ I am learning DSA step by step for interview preparation.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -86,6 +87,7 @@ I am learning DSA step by step for interview preparation.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
