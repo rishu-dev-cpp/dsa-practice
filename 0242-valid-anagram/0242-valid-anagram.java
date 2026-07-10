@@ -8,9 +8,9 @@ class Solution {
         int[] arr = new int[26];
         
         for(int i = 0; i< s.length(); i++){
-            int c = s.charAt(i);
+            char c = s.charAt(i);
             arr[c-'a']++;
-            int k = t.charAt(i);
+            char k = t.charAt(i);
             arr[k-'a']--;
 
         }
