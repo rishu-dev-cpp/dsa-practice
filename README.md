@@ -42,6 +42,7 @@ I am learning DSA step by step for interview preparation.
 | [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -73,6 +74,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -99,6 +101,7 @@ I am learning DSA step by step for interview preparation.
 | [0217-contains-duplicate](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -169,6 +172,7 @@ I am learning DSA step by step for interview preparation.
 | [0217-contains-duplicate](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -219,6 +223,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
@@ -240,6 +245,7 @@ I am learning DSA step by step for interview preparation.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
@@ -275,6 +281,7 @@ I am learning DSA step by step for interview preparation.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 ## Linked List
@@ -364,4 +371,8 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0112-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
