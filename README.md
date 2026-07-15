@@ -1,6 +1,6 @@
-# DSA in C++
+# DSA in Java
 
-This repository contains my DSA practice in C++
+This repository contains my DSA practice in Java
 
 ## Topics Covered
 - Basics
