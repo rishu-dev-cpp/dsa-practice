@@ -37,6 +37,7 @@ I am learning DSA step by step for interview preparation.
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ I am learning DSA step by step for interview preparation.
 | [0036-valid-sudoku](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
@@ -380,4 +382,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
