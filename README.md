@@ -139,6 +139,7 @@ I am learning DSA step by step for interview preparation.
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0234-palindrome-linked-list) |
@@ -265,6 +266,7 @@ I am learning DSA step by step for interview preparation.
 | [0071-simplify-path](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0394-decode-string) |
