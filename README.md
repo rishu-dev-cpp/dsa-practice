@@ -17,6 +17,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0001-two-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -137,6 +138,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -175,6 +177,7 @@ I am learning DSA step by step for interview preparation.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0056-merge-intervals) |
