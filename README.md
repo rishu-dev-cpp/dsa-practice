@@ -37,6 +37,7 @@ I am learning DSA step by step for interview preparation.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
@@ -88,6 +89,7 @@ I am learning DSA step by step for interview preparation.
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
