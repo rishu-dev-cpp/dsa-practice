@@ -66,6 +66,7 @@ I am learning DSA step by step for interview preparation.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
@@ -126,6 +127,7 @@ I am learning DSA step by step for interview preparation.
 | [0213-house-robber-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
@@ -659,8 +661,10 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
