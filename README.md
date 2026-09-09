@@ -58,6 +58,7 @@ I am learning DSA step by step for interview preparation.
 | [0240-search-a-2d-matrix-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -123,6 +124,7 @@ I am learning DSA step by step for interview preparation.
 | [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -187,6 +189,7 @@ I am learning DSA step by step for interview preparation.
 | [0207-course-schedule](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0695-max-area-of-island) |
@@ -652,4 +655,12 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
