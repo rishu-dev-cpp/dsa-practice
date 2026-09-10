@@ -669,4 +669,8 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
