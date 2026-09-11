@@ -63,6 +63,7 @@ I am learning DSA step by step for interview preparation.
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -130,6 +131,7 @@ I am learning DSA step by step for interview preparation.
 | [0213-house-robber-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
@@ -666,6 +668,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -680,4 +683,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
