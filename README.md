@@ -119,6 +119,7 @@ I am learning DSA step by step for interview preparation.
 | [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0091-decode-ways) |
@@ -328,6 +329,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0204-count-primes) |
@@ -687,4 +689,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
