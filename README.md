@@ -138,6 +138,7 @@ I am learning DSA step by step for interview preparation.
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -401,6 +402,7 @@ I am learning DSA step by step for interview preparation.
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1250-longest-common-subsequence) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
@@ -693,4 +695,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
