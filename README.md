@@ -30,6 +30,7 @@ I am learning DSA step by step for interview preparation.
 | [0047-permutations-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0074-search-a-2d-matrix) |
@@ -121,6 +122,7 @@ I am learning DSA step by step for interview preparation.
 | [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0070-climbing-stairs) |
@@ -262,6 +264,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
