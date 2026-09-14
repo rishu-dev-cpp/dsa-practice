@@ -70,6 +70,7 @@ I am learning DSA step by step for interview preparation.
 | [0442-find-all-duplicates-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
@@ -136,6 +137,7 @@ I am learning DSA step by step for interview preparation.
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
@@ -484,6 +486,7 @@ I am learning DSA step by step for interview preparation.
 | [0090-subsets-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -675,6 +678,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0322-coin-change](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -693,6 +697,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
