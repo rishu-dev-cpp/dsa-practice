@@ -85,6 +85,7 @@ I am learning DSA step by step for interview preparation.
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0861-flipping-an-image) |
+| [0876-hand-of-straights](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0907-koko-eating-bananas) |
@@ -181,6 +182,7 @@ I am learning DSA step by step for interview preparation.
 | [0567-permutation-in-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0876-hand-of-straights](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
@@ -272,6 +274,7 @@ I am learning DSA step by step for interview preparation.
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0876-hand-of-straights) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
@@ -291,6 +294,7 @@ I am learning DSA step by step for interview preparation.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
+| [0876-hand-of-straights](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0876-hand-of-straights) |
 | [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
