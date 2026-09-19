@@ -103,6 +103,7 @@ I am learning DSA step by step for interview preparation.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2047-find-a-peak-element-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2047-find-a-peak-element-ii) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
@@ -275,6 +276,7 @@ I am learning DSA step by step for interview preparation.
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 ## Sorting
 |  |
