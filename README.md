@@ -148,6 +148,7 @@ I am learning DSA step by step for interview preparation.
 | [0494-target-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1250-longest-common-subsequence) |
@@ -257,6 +258,7 @@ I am learning DSA step by step for interview preparation.
 | [0394-decode-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0445-add-two-numbers-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0636-exclusive-time-of-functions) |
+| [0678-valid-parenthesis-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -277,6 +279,7 @@ I am learning DSA step by step for interview preparation.
 | [0435-non-overlapping-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0876-hand-of-straights) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -423,6 +426,7 @@ I am learning DSA step by step for interview preparation.
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
@@ -673,6 +677,7 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 ## Graph Theory
 |  |
 | ------- |
