@@ -263,6 +263,7 @@ I am learning DSA step by step for interview preparation.
 | [0678-valid-parenthesis-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0883-car-fleet) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -434,6 +435,7 @@ I am learning DSA step by step for interview preparation.
 | [0768-partition-labels](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0768-partition-labels) |
 | [1023-time-based-key-value-store](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1250-longest-common-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
@@ -682,6 +684,7 @@ I am learning DSA step by step for interview preparation.
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
