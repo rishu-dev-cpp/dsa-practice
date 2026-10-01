@@ -107,6 +107,7 @@ I am learning DSA step by step for interview preparation.
 | [2047-find-a-peak-element-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2047-find-a-peak-element-ii) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
+| [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4421-minimum-queen-moves-to-reach-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4421-minimum-queen-moves-to-reach-target) |
 ## Divide and Conquer
 |  |
@@ -194,6 +195,7 @@ I am learning DSA step by step for interview preparation.
 | [1034-subarrays-with-k-different-integers](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1447-jump-game-iv](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1447-jump-game-iv) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
+| [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,6 +204,7 @@ I am learning DSA step by step for interview preparation.
 | [0525-contiguous-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0525-contiguous-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1046-max-consecutive-ones-iii) |
+| [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Breadth-First Search
 |  |
 | ------- |
