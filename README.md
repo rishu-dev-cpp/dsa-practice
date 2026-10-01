@@ -108,6 +108,7 @@ I am learning DSA step by step for interview preparation.
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
 | [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 | [4421-minimum-queen-moves-to-reach-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4421-minimum-queen-moves-to-reach-target) |
 ## Divide and Conquer
 |  |
@@ -314,6 +315,7 @@ I am learning DSA step by step for interview preparation.
 | [0948-sort-an-array](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1222-remove-covered-intervals](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1222-remove-covered-intervals) |
+| [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -339,6 +341,7 @@ I am learning DSA step by step for interview preparation.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2047-find-a-peak-element-ii) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
+| [4417-number-of-intersecting-interval-pairs-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4417-number-of-intersecting-interval-pairs-ii) |
 ## Matrix
 |  |
 | ------- |
