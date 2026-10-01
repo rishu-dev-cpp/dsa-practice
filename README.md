@@ -107,6 +107,7 @@ I am learning DSA step by step for interview preparation.
 | [2047-find-a-peak-element-ii](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2047-find-a-peak-element-ii) |
 | [2634-minimum-common-value](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/2634-minimum-common-value) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4005-maximum-total-subarray-value-i) |
+| [4421-minimum-queen-moves-to-reach-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4421-minimum-queen-moves-to-reach-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -368,6 +369,7 @@ I am learning DSA step by step for interview preparation.
 | [1014-k-closest-points-to-origin](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [4421-minimum-queen-moves-to-reach-target](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/4421-minimum-queen-moves-to-reach-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
