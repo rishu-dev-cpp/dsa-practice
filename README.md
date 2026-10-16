@@ -747,4 +747,8 @@ I am learning DSA step by step for interview preparation.
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/1250-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/rishu-dev-cpp/dsa-practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
